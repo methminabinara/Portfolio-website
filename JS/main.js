@@ -54,11 +54,11 @@ window.onscroll = () => {
 
     /*=========================== typed js  ===========================*/
 
-    const typed = new Typed('.multiple-text', {
-        strings: ['Frontend Developer', 'Web Designer', 'Youtuber'],
-        typeSpeed: 70,
-        backSpeed: 70,
-        backDelay: 1000,
-        loop: true,
-    });
+    // const typed = new Typed('.multiple-text', {
+    //     strings: ['Frontend Developer', 'Web Designer', 'Youtuber'],
+    //     typeSpeed: 70,
+    //     backSpeed: 70,
+    //     backDelay: 1000,
+    //     loop: true,
+    // });
 }

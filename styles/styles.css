@@ -99,6 +99,7 @@ span {
 .home-img img {
     width: 25vw;
     animation: floatImage 4s ease-in-out infinite;
+    margin-left: 410px;
 }
 
 @keyframes floatImage {
@@ -241,6 +242,8 @@ span {
     grid-template-columns: repeat(3, 1fr);
     align-items: center;
     gap: 2.5rem;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 
 .portfolio-container .portfolio-box {
